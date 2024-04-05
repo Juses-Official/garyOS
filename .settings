@@ -1,0 +1,5 @@
+{
+  userName = "",
+  admin = false,
+  [ "shell.allow_disk_startup" ] = false,
+}
